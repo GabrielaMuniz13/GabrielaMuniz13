@@ -1,4 +1,4 @@
-#  Hi, I'm Gabriela Muniz  <img align="center" alt="boo" height="60" width="80" src="http://25.media.tumblr.com/tumblr_m85kfdptfV1qjrfmeo1_250.gif">
+#  Hi, I'm Gabriela Muniz  <img align="center" alt="boo" height="60" width="80" src="https://i.pinimg.com/originals/d3/ae/8a/d3ae8afa9bd1a907277405928fad52e7.gif">
 
 My name is Gabriela Muniz, I'm Brazilian. Systems Analysis and Development course and I'm focusing on studies for a career in the Front-End.
 
