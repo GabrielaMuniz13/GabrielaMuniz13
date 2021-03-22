@@ -10,7 +10,8 @@ My name is Gabriela Muniz, I'm Brazilian. Systems Analysis and Development cours
 
 ### Where to find me:
 
-[Linkedin] (https://www.linkedin.com/in/gabriela-muniz-1ab02a1ab/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-muniz-1ab02a1ab/)](https://www.linkedin.com/in/gabriela-muniz-1ab02a1ab/)
+
 
 
 
