@@ -2,7 +2,7 @@
 
 My name is Gabriela Muniz, I'm Brazilian. Systems Analysis and Development course and I'm focusing on studies for a career in the Front-End.
 
- ## 🌎"Never forget who you are!"
+ ### 🌎"Never forget who you are!"
 
 - 📍 I live in Paulista-PE
 - 😍 Passionate about Front End
