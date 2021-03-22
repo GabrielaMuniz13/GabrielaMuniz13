@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**GabrielaMuniz13/GabrielaMuniz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriela Muniz, sou Brasileira  🇧🇷. Curso Análise e Desenvolvimento de Sistemas e estou focando os estudos para uma carreira no Front-End.
 
-Here are some ideas to get you started:
+🌎 # "Nunca esqueça de quem você é!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Moro Paulista-PE
+- 😍 Apaixonada por Front-End
+- 
+- 
+- 
+- 
+- 
+-
+
