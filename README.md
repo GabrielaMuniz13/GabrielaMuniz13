@@ -1,15 +1,18 @@
 # Hey 👋
 
-Meu nome é Gabriela Muniz, sou Brasileira  🇧🇷. Curso Análise e Desenvolvimento de Sistemas e estou focando os estudos para uma carreira no Front-End.
+My name is Gabriela Muniz, I'm Brazilian. Systems Analysis and Development course and I'm focusing on studies for a career in the Front-End.
 
-🌎 # "Nunca esqueça de quem você é!"
+ ## 🌎"Never forget who you are!"
 
-- 📍 Moro Paulista-PE
-- 😍 Apaixonada por Front-End
-- 
-- 
-- 
-- 
-- 
--
+- 📍 I live in Paulista-PE
+- 😍 Passionate about Front End
+- 🎮I play League of Legends and The Sims 4
+
+### Where to find me:
+
+[Linkedin] (https://www.linkedin.com/in/gabriela-muniz-1ab02a1ab/)
+
+
+
+
 
